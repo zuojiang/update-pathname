@@ -1,0 +1,30 @@
+{
+  "name": "update-pathname",
+  "version": "1.0.0",
+  "description": "update-pathname ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "zuojiang.wang@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "url-join": "^4.0.1",
+    "url-parse": "^1.4.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuojiang/update-pathname.git"
+  },
+  "keywords": [
+    "update",
+    "pathname",
+    "path",
+    "url"
+  ],
+  "bugs": {
+    "url": "https://github.com/zuojiang/update-pathname/issues"
+  },
+  "homepage": "https://github.com/zuojiang/update-pathname#readme"
+}
